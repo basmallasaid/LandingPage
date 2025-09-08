@@ -1,5 +1,5 @@
 import React from 'react';
-import '../Styles/style.module.css'
+import '/src/Components/styles/style.module.css'
 const Promo = () => {
     return (
         <>

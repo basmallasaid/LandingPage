@@ -1,5 +1,5 @@
 import "tailwindcss"
-import LandingPage from "./Components/Pages/LandingPage"
+import LandingPage from "/src/Components/Pages/LandingPage.jsx"
 
 function App() {
   return (
