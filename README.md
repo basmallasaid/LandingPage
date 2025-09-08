@@ -28,7 +28,7 @@ It showcases exquisite perfumes and luxurious accessories, designed with a focus
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **React** – Component-based architecture  
 - **Vite** – Fast bundler and dev server  
 - **Tailwind CSS** – Utility-first styling  
@@ -57,63 +57,6 @@ velora/
 └── README.md
 
 ````
-
----
-
-##  Installation  
-
-1. Clone the repo:  
-   ```bash
-  https://github.com/basmallasaid/LandingPage
-   cd velora
-````
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Run development server:
-
-   ```bash
-   npm run dev
-   ```
-
-4. Build for production:
-
-   ```bash
-   npm run build
-   ```
-
----
-
-##  Customization
-
-* Update colors, fonts, and layout in `style.module.css` and `tailwind.config.js`.
-* Replace images in the `public/` folder with your brand assets.
-
----
-
-
-## Contributing
-
-Contributions are welcome!
-
-1. Fork the repo
-2. Create a new branch
-3. Commit your changes
-4. Open a pull request
-
----
-
-##  License
-
-This project is licensed under the MIT License.
-
----
-
-##  Contact
 
  Developed by **Basmala Said**
 
