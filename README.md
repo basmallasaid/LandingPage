@@ -1,11 +1,11 @@
-Velora – Elegant E-Commerce Landing Page
+## Velora – Elegant E-Commerce Landing Page
 ## Live Demo
 [Check out the live demo here.](https://landing-velora.vercel.app/#)
 
-Overview
+## Overview
 Velora is a modern and elegant landing page crafted for a women’s products brand. It showcases exquisite perfumes and luxurious accessories, designed with a focus on style, usability, and responsiveness. The page is built to provide an engaging user experience with a clean and visually appealing interface.
 
-Features
+## Features
 
 Stylish and Minimal UI: A sleek design tailored for elegance and user engagement.
 Fully Responsive: Optimized for mobile, tablet, and desktop devices.
@@ -14,7 +14,7 @@ Tailwind CSS Styling: Utility-first CSS framework for rapid and customizable sty
 Product Showcase: Dedicated section for product categories with a focus on perfumes and accessories.
 
 
-Tech Stack
+## Tech Stack
 
 React: Component-based architecture for dynamic and reusable UI components.
 Vite: Next-generation frontend tooling for fast development and optimized builds.
@@ -22,7 +22,7 @@ Tailwind CSS: Utility-first framework for streamlined and responsive styling.
 CSS Modules: Scoped styling for modular and maintainable CSS.
 
 
-Installation
+## Installation
 
 Clone the repository:
 git clone https://github.com/basmalasaid/landing-page.git
@@ -59,7 +59,7 @@ npm run preview
 
 
 
-Developed By
+## Developed By
 Basmala Said
 
 GitHub: @basmalasaid
@@ -67,7 +67,7 @@ GitHub: @basmalasaid
 LinkedIn: [Basmala Said](https://www.linkedin.com/in/basmala-said/)
 
 
-Acknowledgments
+## Acknowledgments
 
 React
 Vite
