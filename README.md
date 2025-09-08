@@ -8,27 +8,27 @@
 
 ---
 
-## 🌍 Live Demo  
-👉 [https://landing-velora.vercel.app/#
+##  Live Demo  
+ [https://landing-velora.vercel.app/#
 
 ---
 
-## ✨ Overview  
+##  Overview  
 Velora is a modern and elegant landing page built for a women’s products brand.  
 It showcases exquisite perfumes and luxurious accessories, designed with a focus on style, usability, and responsiveness.  
 
 ---
 
-## 🔥 Features  
-- 🎀 Stylish and minimal UI  
-- 📱 Fully responsive design (mobile-first)  
-- ⚡ Built with React + Vite for speed and efficiency  
-- 🎨 Tailwind CSS for rapid styling  
-- 🛍️ Product showcase section with categories  
+##  Features  
+-  Stylish and minimal UI  
+-  Fully responsive design (mobile-first)  
+-  Built with React + Vite for speed and efficiency  
+-  Tailwind CSS for rapid styling  
+-  Product showcase section with categories  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 - **React** – Component-based architecture  
 - **Vite** – Fast bundler and dev server  
 - **Tailwind CSS** – Utility-first styling  
@@ -36,7 +36,7 @@ It showcases exquisite perfumes and luxurious accessories, designed with a focus
 
 ---
 
-## 📂 Project Structure  
+##  Project Structure  
 
 ```
 
@@ -60,7 +60,7 @@ velora/
 
 ---
 
-## ⚙️ Installation  
+##  Installation  
 
 1. Clone the repo:  
    ```bash
@@ -88,23 +88,15 @@ velora/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 * Update colors, fonts, and layout in `style.module.css` and `tailwind.config.js`.
 * Replace images in the `public/` folder with your brand assets.
 
 ---
 
-## 🛣️ Roadmap
 
-* [ ] Add Dark Mode support
-* [ ] Multi-language support
-* [ ] Product detail pages
-* [ ] Shopping cart functionality
-
----
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -115,22 +107,22 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 📬 Contact
+##  Contact
 
-👩‍💻 Developed by **Basmala Said**
+ Developed by **Basmala Said**
 
 * GitHub: [@basmalasaid](https://github.com/basmalasaid)
 * LinkedIn: \[Your LinkedIn Profile]
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 * [React](https://react.dev/)
 * [Vite](https://vitejs.dev/)
