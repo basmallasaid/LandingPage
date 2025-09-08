@@ -36,32 +36,10 @@ It showcases exquisite perfumes and luxurious accessories, designed with a focus
 
 ---
 
-##  Project Structure  
-
-```
-
-velora/
-│── public/
-│── src/
-│   ├── Components/
-│   │   ├── Navbar.jsx
-│   │   ├── Banner.jsx
-│   │   ├── Footer.jsx
-│   │   └── ...
-│   ├── Styles/
-│   │   └── style.module.css
-│   ├── App.jsx
-│   └── main.jsx
-│── package.json
-│── vite.config.js
-└── README.md
-
-````
-
  Developed by **Basmala Said**
 
 * GitHub: [@basmalasaid](https://github.com/basmalasaid)
-* LinkedIn: \[Your LinkedIn Profile]
+* LinkedIn: \[https://www.linkedin.com/in/basmala-said/]
 
 ---
 
@@ -72,5 +50,4 @@ velora/
 * [Tailwind CSS](https://tailwindcss.com/)
 * [SweetAlert2](https://sweetalert2.github.io/)
 
-```
 
