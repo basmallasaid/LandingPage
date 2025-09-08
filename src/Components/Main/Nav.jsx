@@ -5,6 +5,7 @@ import megaMenuCategory01 from '../../assets/mega-menu-category-01.jpg';
 import megaMenuCategory02 from '../../assets/mega-menu-category-02.jpg';
 import menuMan from '../../assets/menu-man.jpg';
 import menuMan2 from '../../assets/menu-man2.jpg';
+import logo from '../../assets/logo.png';
 import {
   Dialog,
   DialogBackdrop,
@@ -275,7 +276,7 @@ const Nav = () => {
                   <span className="sr-only">Your Company</span>
                   <img
                     alt=""
-                    src="../src/assets/logo.png"
+                    src={logo}
                     className="h-16 w-auto"
                   />
                 </a>
