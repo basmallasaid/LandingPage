@@ -1,5 +1,12 @@
 import React from 'react';
 import '/src/Components/styles/style.module.css'
+import fashionc from "../../assets/fashionc.jpg";
+import Accessories2 from "../../assets/Accessories2.jpg";
+import menc2 from "../../assets/menc2.jpg";
+import glasses from "../../assets/glasses.jpg";
+import menOutfit2 from "../../assets/menc3.jpg";
+import heels from "../../assets/heels.jpg";
+import dress from "../../assets/women2.jpg";
 const Promo = () => {
     return (
         <>
@@ -29,37 +36,14 @@ const Promo = () => {
                       <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                         <img
                           alt=""
-                          src="./src/assets/fashionc.jpg"
+                          src={fashionc}
                           className="size-full object-cover"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
-                          src="./src/assets/Accessories2.jpg"
-                          className="size-full object-cover"
-                        />
-                      </div>
-                    </div>
-                    <div className="grid shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          alt=""
-                          src="./src/assets/menc2.jpg"
-                          className="size-full object-cover"
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          alt=""
-                          src="./src/assets/glasses.jpg"
-                          className="size-full object-cover"
-                        />
-                      </div>
-                      <div className="h-64 w-44 overflow-hidden rounded-lg">
-                        <img
-                          alt=""
-                          src="./src/assets/menc.jpg"
+                          src={Accessories2}
                           className="size-full object-cover"
                         />
                       </div>
@@ -68,14 +52,37 @@ const Promo = () => {
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
-                          src="./src/assets/heels.jpg"
+                          src={menc2}
                           className="size-full object-cover"
                         />
                       </div>
                       <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           alt=""
-                          src="./src/assets/women3.jpg"
+                          src={glasses}
+                          className="size-full object-cover"
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          alt=""
+                          src={menOutfit2}
+                          className="size-full object-cover"
+                        />
+                      </div>
+                    </div>
+                    <div className="grid shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          alt=""
+                          src={heels}
+                          className="size-full object-cover"
+                        />
+                      </div>
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
+                        <img
+                          alt=""
+                          src={dress}
                           className="size-full object-cover"
                         />
                       </div>

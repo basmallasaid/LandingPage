@@ -1,53 +1,61 @@
 import React from 'react';
 import styles from '/src/Components/styles/style.module.css';
+import accessories1 from "../../assets/Accessories1.jpg";
+import menOutfit from "../../assets/menc2.jpg";
+import womenOutfit from "../../assets/womenc.jpg";
+import glasses from "../../assets/glasses.jpg";
+import jeans from "../../assets/jeans.jpg";
+import menOutfit2 from "../../assets/menc3.jpg";
+import heels from "../../assets/heels.jpg";
+import dress from "../../assets/women2.jpg";
 const Product = () => {
     const products = [
         {
           name: 'Accessories',
           price: '$19.99',
-          imageSrc: './src/assets/Accessories1.jpg',
+          imageSrc: accessories1,
           link: '#',
         },
         {
           name: 'Men Outfit',
           price: '$29.99',
-          imageSrc: './src/assets/menc2.jpg',
+          imageSrc: menOutfit,
           link: '#',
         },
         {
           name: 'Women Outfit',
           price: '$39.99',
-          imageSrc: './src/assets/womenc.jpg',
+          imageSrc: womenOutfit,
           link: '#',
         },
         {
           name: 'Glasses',
           price: '$49.99',
-          imageSrc: './src/assets/glasses.jpg',
+          imageSrc: glasses,
           link: '#',
         },
         {
           name: 'Jeans',
           price: '$59.99',
-          imageSrc: './src/assets/jeans.jpg',
+          imageSrc: jeans,
           link: '#',
         },
         {
           name: 'Men Outfit',
           price: '$69.99',
-          imageSrc: './src/assets/menc3.jpg',
+          imageSrc: menOutfit2,
           link: '#',
         },
         {
           name: 'Heels',
           price: '$79.99',
-          imageSrc: './src/assets/heels.jpg',
+          imageSrc: heels,
           link: '#',
         },
         {
           name: 'Dress',
           price: '$89.99',
-          imageSrc: './src/assets/women2.jpg',
+          imageSrc: dress,
           link: '#',
         },
       ];
