@@ -1,6 +1,6 @@
 'use client'
 import React, { Fragment, useState } from 'react'
-import '../Styles/style.module.css'
+import '/src/Components/styles/style.module.css'
 import {
   Dialog,
   DialogBackdrop,
