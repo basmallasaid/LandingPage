@@ -3,7 +3,7 @@ import styles from '../Styles/style.module.css';
 const Category = () => {
     return (
         <>
-            <h2 className="text-2xl md:text-3xl font-extrabold mb-10 ml-4 md:ml-6 tracking-wide   ">
+            <h2 className={`text-2xl md:text-3xl font-extrabold mb-10 ml-4 md:ml-6 tracking-wide`}>
                 Shop by Category
             </h2>
 
