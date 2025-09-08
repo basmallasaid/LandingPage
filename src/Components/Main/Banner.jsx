@@ -1,16 +1,13 @@
 import { useState, useEffect } from "react";
 import styles from "/src/Components/styles/style.module.css";
+// Import images at the top
+import banner1 from "../../assets/NewStyleCollectionBanner.png";
+import banner2 from "../../assets/GrayModernNewCollectionSale Banner2.png";
+import banner3 from "../../assets/T-ShirtScreenBanner.png";
+
 const Banner = () => {
-  const images = [
-    "./src/assets/NewStyleCollectionBanner.png",
-    "./src/assets/GrayModernNewCollectionSale Banner2.png",
-    "./src/assets/T-ShirtScreenBanner.png" 
-  ];
-  const links = [
-    "#",
-    "#",
-    "#"
-  ];
+  const images = [banner1, banner2, banner3];
+  const links = ["#", "#", "#"];
   const [current, setCurrent] = useState(0);
 
   useEffect(() => {
@@ -25,18 +22,16 @@ const Banner = () => {
     <div className={styles.banner}>
       {images.map((img, index) => (
         <a
-        key={index}
-        href={links[index]} 
-        style={{ display: index === current ? "block" : "none" }}
-      >
-        <img
           key={index}
-          src={img}
-          alt={`banner-${index}`}
-          className={styles.bannerImg}
-          style={{ opacity: index === current ? 1 : 0}}
-        />
-      </a>
+          href={links[index]} 
+          style={{ display: index === current ? "block" : "none" }}
+        >
+          <img
+            src={img}  // Use the imported image directly
+            alt={`banner-${index}`}
+            className={styles.bannerImg}
+          />
+        </a>
       ))}
     </div>
   );
