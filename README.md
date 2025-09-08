@@ -59,28 +59,11 @@ npm run preview
 
 
 
-
-Project Structure
-landing-page/
-├── public/                # Static assets (e.g., favicon, images)
-├── src/                   # Source code
-│   ├── assets/            # Images, fonts, or other static assets
-│   ├── components/        # Reusable React components (e.g., Header, Footer, Hero)
-│   ├── pages/             # Page-level components (e.g., Home)
-│   ├── App.jsx            # Main app component
-│   ├── main.jsx           # Entry point for React
-│   ├── index.css          # Global CSS (including Tailwind imports)
-├── index.html             # Main HTML file
-├── package.json           # Project metadata and dependencies
-├── vite.config.js         # Vite configuration
-├── tailwind.config.js     # Tailwind CSS configuration
-├── README.md              # Project documentation
-
-
 Developed By
 Basmala Said
 
 GitHub: @basmalasaid
+
 LinkedIn: [Basmala Said](https://www.linkedin.com/in/basmala-said/)
 
 
