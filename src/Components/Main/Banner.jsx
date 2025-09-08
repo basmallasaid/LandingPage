@@ -2,9 +2,9 @@ import { useState, useEffect } from "react";
 import styles from "/src/Components/styles/style.module.css";
 const Banner = () => {
   const images = [
-    "src/assets/NewStyleCollectionBanner.png",
-    "src/assets/GrayModernNewCollectionSale Banner2.png",
-    "src/assets/T-ShirtScreenBanner.png" 
+    "/src/assets/NewStyleCollectionBanner.png",
+    "/src/assets/GrayModernNewCollectionSale Banner2.png",
+    "/src/assets/T-ShirtScreenBanner.png" 
   ];
   const links = [
     "#",
