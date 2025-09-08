@@ -1,6 +1,10 @@
 'use client'
 import React, { Fragment, useState } from 'react'
 import '/src/Components/styles/style.module.css'
+import megaMenuCategory01 from '../../assets/mega-menu-category-01.jpg';
+import megaMenuCategory02 from '../../assets/mega-menu-category-02.jpg';
+import menuMan from '../../assets/menu-man.jpg';
+import menuMan2 from '../../assets/menu-man2.jpg';
 import {
   Dialog,
   DialogBackdrop,
@@ -27,13 +31,13 @@ const navigation = {
         {
           name: 'New Arrivals',
           href: '#',
-          imageSrc: 'src/assets/mega-menu-category-01.jpg',
+          imageSrc: megaMenuCategory01,
           imageAlt: 'Models sitting back to back, wearing Basic Tee in black and bone.',
         },
         {
           name: 'Basic Tees',
           href: '#',
-          imageSrc: 'src/assets/mega-menu-category-02.jpg',
+          imageSrc: megaMenuCategory02,
           imageAlt: 'Close up of Basic Tee fall bundle with off-white, ochre, olive, and black tees.',
         },
       ],
@@ -85,13 +89,13 @@ const navigation = {
         {
           name: 'New Arrivals',
           href: '#',
-          imageSrc: 'src/assets/menu-man.jpg',
+          imageSrc: menuMan,
           imageAlt: 'Drawstring top with elastic loop closure and textured interior padding.',
         },
         {
           name: 'Artwork Tees',
           href: '#',
-          imageSrc: 'src/assets/menu-man2.jpg',
+          imageSrc: menuMan2,
           imageAlt: 'Three shirts in gray, white, and blue arranged on table with same line drawing of hands and shapes overlapping on front of shirt.',
         },
       ],
