@@ -3,7 +3,7 @@
 [Check out the live demo here.](https://landing-velora.vercel.app/#)
 
 ## Overview
-Velora is a modern and elegant landing page crafted for a women’s products brand. It showcases exquisite perfumes and luxurious accessories, designed with a focus on style, usability, and responsiveness. The page is built to provide an engaging user experience with a clean and visually appealing interface.
+Velora is a modern and elegant landing page crafted for  products brand. It showcases exquisite perfumes and luxurious accessories, designed with a focus on style, usability, and responsiveness. The page is built to provide an engaging user experience with a clean and visually appealing interface.
 
 ## Features
 
@@ -60,9 +60,8 @@ npm run preview
 
 
 ## Developed By
-Basmala Said
 
-GitHub: @basmalasaid
+GitHub:[Basmala Said](https://github.com/basmallasaid)
 
 LinkedIn: [Basmala Said](https://www.linkedin.com/in/basmala-said/)
 
